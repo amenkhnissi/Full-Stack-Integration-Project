@@ -23,20 +23,29 @@
 }
 
 @code {
+    private static Product[]? cachedProducts;
     private Product[]? products;
     private string? errorMessage;
 
     protected override async Task OnInitializedAsync()
     {
-        // Replace this URL with the actual API endpoint
-        var url = "http://localhost:5155/api/productlist";
-        try
+        if (cachedProducts != null)
         {
-            products = await Http.GetFromJsonAsync<Product[]>(url);
+            products = cachedProducts;
         }
-        catch (HttpRequestException ex)
+        else
         {
-            errorMessage = $"Error retrieving products: {ex.Message}";
+            // Replace this URL with the actual API endpoint
+            var url = "http://localhost:5155/api/productlist";
+            try
+            {
+                products = await Http.GetFromJsonAsync<Product[]>(url);
+                cachedProducts = products;
+            }
+            catch (HttpRequestException ex)
+            {
+                errorMessage = $"Error retrieving products: {ex.Message}";
+            }
         }
     }
 

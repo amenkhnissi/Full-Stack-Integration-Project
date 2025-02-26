@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3zcFTTJurEk7+BZDlT+btMv26trIK1+14vdUSf0OX+4=",
+  "Hash": "lPdNEkQVjROJ/5YySE9aVAkmiq4q8Jexzh/cUdqQEBk=",
   "Source": "FrontEnd",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "0wzefjylrw",
-      "Integrity": "0Fckq/rmC6OENl7vWN+QGfEDaHh0BtSfeHp8G9zFU4I=",
+      "Fingerprint": "lpt2wg8nmu",
+      "Integrity": "6aKO04yy5E4pOpJwV/HVK9WMVq4qpLQVZA6+EU8JV+U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "2hcef23mul",
-      "Integrity": "WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc=",
+      "Fingerprint": "q6fb8j14v8",
+      "Integrity": "omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\FrontEnd.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "rolwamfig9",
-      "Integrity": "yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8=",
+      "Fingerprint": "vzrw0bhwvx",
+      "Integrity": "u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\webcil\\FrontEnd.wasm"
@@ -5099,12 +5099,12 @@
       "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-rolwamfig9.gz",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-vzrw0bhwvx.gz",
       "SourceId": "FrontEnd",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/FrontEnd#[.{fingerprint=rolwamfig9}]!.wasm.gz",
+      "RelativePath": "_framework/FrontEnd#[.{fingerprint=vzrw0bhwvx}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5113,8 +5113,8 @@
       "RelatedAsset": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontEnd.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xkin7c6ep1",
-      "Integrity": "0bSCU7FZ8s9C++T6IKvZ3//ie6/KbAakbC6e3J3RxuU=",
+      "Fingerprint": "edaeo4ks14",
+      "Integrity": "AhRJHE1mOn9ePTPIqSwrl7SXOlEwC4fNrWB5XYHDoGU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontEnd.wasm"
@@ -6401,7 +6401,7 @@
       "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\da4165w0gq-0wzefjylrw.gz",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\da4165w0gq-lpt2wg8nmu.gz",
       "SourceId": "FrontEnd",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
@@ -6415,8 +6415,8 @@
       "RelatedAsset": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "29k76i2war",
-      "Integrity": "RtAKTLEOPJ4VhhrqzxFvMT3AbypRUmdiiv4wSFmbXY0=",
+      "Fingerprint": "tfskfte8a0",
+      "Integrity": "B1A9qNpA8gHWxlMVNPaP7Q4sR0rc8ezPi513BcuEmKE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7136,12 +7136,12 @@
       "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.wasm"
     },
     {
-      "Identity": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-2hcef23mul.gz",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-q6fb8j14v8.gz",
       "SourceId": "FrontEnd",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/FrontEnd#[.{fingerprint=2hcef23mul}]!.pdb.gz",
+      "RelativePath": "_framework/FrontEnd#[.{fingerprint=q6fb8j14v8}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7150,8 +7150,8 @@
       "RelatedAsset": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontEnd.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ag04rbm88j",
-      "Integrity": "SkLNddbohqACmgYBgxN4UXZ3gd2mfNz/YqaLkJi2jbY=",
+      "Fingerprint": "pcsr65qi0y",
+      "Integrity": "SeJiDHF4U0ps3dJXh6rMiTrp5ca8ebgxLT3UE0lOuNo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontEnd.pdb"
@@ -10705,7 +10705,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0Fckq/rmC6OENl7vWN+QGfEDaHh0BtSfeHp8G9zFU4I=\""
+          "Value": "\"6aKO04yy5E4pOpJwV/HVK9WMVq4qpLQVZA6+EU8JV+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6aKO04yy5E4pOpJwV/HVK9WMVq4qpLQVZA6+EU8JV+U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\da4165w0gq-lpt2wg8nmu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081294204"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12300"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B1A9qNpA8gHWxlMVNPaP7Q4sR0rc8ezPi513BcuEmKE=\""
         },
         {
           "Name": "Last-Modified",
@@ -10714,45 +10753,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0Fckq/rmC6OENl7vWN+QGfEDaHh0BtSfeHp8G9zFU4I="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\da4165w0gq-0wzefjylrw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081280988"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12302"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RtAKTLEOPJ4VhhrqzxFvMT3AbypRUmdiiv4wSFmbXY0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0Fckq/rmC6OENl7vWN+QGfEDaHh0BtSfeHp8G9zFU4I=\""
+          "Value": "W/\"6aKO04yy5E4pOpJwV/HVK9WMVq4qpLQVZA6+EU8JV+U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0Fckq/rmC6OENl7vWN+QGfEDaHh0BtSfeHp8G9zFU4I="
+          "Value": "sha256-6aKO04yy5E4pOpJwV/HVK9WMVq4qpLQVZA6+EU8JV+U="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\da4165w0gq-0wzefjylrw.gz",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\da4165w0gq-lpt2wg8nmu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12302"
+          "Value": "12300"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RtAKTLEOPJ4VhhrqzxFvMT3AbypRUmdiiv4wSFmbXY0=\""
+          "Value": "\"B1A9qNpA8gHWxlMVNPaP7Q4sR0rc8ezPi513BcuEmKE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
+          "Value": "Wed, 26 Feb 2025 17:05:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RtAKTLEOPJ4VhhrqzxFvMT3AbypRUmdiiv4wSFmbXY0="
+          "Value": "sha256-B1A9qNpA8gHWxlMVNPaP7Q4sR0rc8ezPi513BcuEmKE="
         }
       ]
     },
@@ -12749,7 +12749,7 @@
       ]
     },
     {
-      "Route": "_framework/FrontEnd.2hcef23mul.pdb",
+      "Route": "_framework/FrontEnd.pdb",
       "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontEnd.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12759,7 +12759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26196"
+          "Value": "26304"
         },
         {
           "Name": "Content-Type",
@@ -12767,40 +12767,32 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc=\""
+          "Value": "\"omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:57 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:58 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "2hcef23mul"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/FrontEnd.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc="
+          "Value": "sha256-omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo="
         }
       ]
     },
     {
-      "Route": "_framework/FrontEnd.2hcef23mul.pdb",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-2hcef23mul.gz",
+      "Route": "_framework/FrontEnd.pdb",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-q6fb8j14v8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051945353"
+          "Quality": "0.000051711656"
         }
       ],
       "ResponseHeaders": [
@@ -12810,19 +12802,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19250"
+          "Value": "19337"
         },
         {
           "Name": "ETag",
-          "Value": "\"SkLNddbohqACmgYBgxN4UXZ3gd2mfNz/YqaLkJi2jbY=\""
+          "Value": "\"SeJiDHF4U0ps3dJXh6rMiTrp5ca8ebgxLT3UE0lOuNo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -12838,27 +12830,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc=\""
+          "Value": "W/\"omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "2hcef23mul"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/FrontEnd.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc="
+          "Value": "sha256-omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo="
         }
       ]
     },
     {
-      "Route": "_framework/FrontEnd.2hcef23mul.pdb.gz",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-2hcef23mul.gz",
+      "Route": "_framework/FrontEnd.pdb.gz",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-q6fb8j14v8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12867,7 +12851,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19250"
+          "Value": "19337"
         },
         {
           "Name": "Content-Type",
@@ -12875,11 +12859,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SkLNddbohqACmgYBgxN4UXZ3gd2mfNz/YqaLkJi2jbY=\""
+          "Value": "\"SeJiDHF4U0ps3dJXh6rMiTrp5ca8ebgxLT3UE0lOuNo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SeJiDHF4U0ps3dJXh6rMiTrp5ca8ebgxLT3UE0lOuNo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FrontEnd.q6fb8j14v8.pdb",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontEnd.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 17:09:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q6fb8j14v8"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/FrontEnd.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FrontEnd.q6fb8j14v8.pdb",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-q6fb8j14v8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000051711656"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19337"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SeJiDHF4U0ps3dJXh6rMiTrp5ca8ebgxLT3UE0lOuNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q6fb8j14v8"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/FrontEnd.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omV2UzuyzmcYlC6BBgrd0K5CqVEX+7y6iV/cWju8MPo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FrontEnd.q6fb8j14v8.pdb.gz",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-q6fb8j14v8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SeJiDHF4U0ps3dJXh6rMiTrp5ca8ebgxLT3UE0lOuNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12897,7 +13034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2hcef23mul"
+          "Value": "q6fb8j14v8"
         },
         {
           "Name": "label",
@@ -12905,149 +13042,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SkLNddbohqACmgYBgxN4UXZ3gd2mfNz/YqaLkJi2jbY="
+          "Value": "sha256-SeJiDHF4U0ps3dJXh6rMiTrp5ca8ebgxLT3UE0lOuNo="
         }
       ]
     },
     {
-      "Route": "_framework/FrontEnd.pdb",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontEnd.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26196"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FrontEnd.pdb",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-2hcef23mul.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000051945353"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19250"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SkLNddbohqACmgYBgxN4UXZ3gd2mfNz/YqaLkJi2jbY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WmLno3gwGpXZ304m07BoI3+0fscR+R4Hc4F7OdOvMgc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FrontEnd.pdb.gz",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\jgqptv09ng-2hcef23mul.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19250"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SkLNddbohqACmgYBgxN4UXZ3gd2mfNz/YqaLkJi2jbY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SkLNddbohqACmgYBgxN4UXZ3gd2mfNz/YqaLkJi2jbY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FrontEnd.rolwamfig9.wasm",
+      "Route": "_framework/FrontEnd.vzrw0bhwvx.wasm",
       "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontEnd.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13057,7 +13057,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20757"
+          "Value": "21269"
         },
         {
           "Name": "Content-Type",
@@ -13065,11 +13065,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8=\""
+          "Value": "\"u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:57 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13079,7 +13079,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rolwamfig9"
+          "Value": "vzrw0bhwvx"
         },
         {
           "Name": "label",
@@ -13087,18 +13087,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8="
+          "Value": "sha256-u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs="
         }
       ]
     },
     {
-      "Route": "_framework/FrontEnd.rolwamfig9.wasm",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-rolwamfig9.gz",
+      "Route": "_framework/FrontEnd.vzrw0bhwvx.wasm",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-vzrw0bhwvx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000110132159"
+          "Quality": "0.000107584723"
         }
       ],
       "ResponseHeaders": [
@@ -13108,15 +13108,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9079"
+          "Value": "9294"
         },
         {
           "Name": "ETag",
-          "Value": "\"0bSCU7FZ8s9C++T6IKvZ3//ie6/KbAakbC6e3J3RxuU=\""
+          "Value": "\"AhRJHE1mOn9ePTPIqSwrl7SXOlEwC4fNrWB5XYHDoGU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13136,13 +13136,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8=\""
+          "Value": "W/\"u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rolwamfig9"
+          "Value": "vzrw0bhwvx"
         },
         {
           "Name": "label",
@@ -13150,13 +13150,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8="
+          "Value": "sha256-u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs="
         }
       ]
     },
     {
-      "Route": "_framework/FrontEnd.rolwamfig9.wasm.gz",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-rolwamfig9.gz",
+      "Route": "_framework/FrontEnd.vzrw0bhwvx.wasm.gz",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-vzrw0bhwvx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13165,7 +13165,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9079"
+          "Value": "9294"
         },
         {
           "Name": "Content-Type",
@@ -13173,11 +13173,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0bSCU7FZ8s9C++T6IKvZ3//ie6/KbAakbC6e3J3RxuU=\""
+          "Value": "\"AhRJHE1mOn9ePTPIqSwrl7SXOlEwC4fNrWB5XYHDoGU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13195,7 +13195,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rolwamfig9"
+          "Value": "vzrw0bhwvx"
         },
         {
           "Name": "label",
@@ -13203,7 +13203,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0bSCU7FZ8s9C++T6IKvZ3//ie6/KbAakbC6e3J3RxuU="
+          "Value": "sha256-AhRJHE1mOn9ePTPIqSwrl7SXOlEwC4fNrWB5XYHDoGU="
         }
       ]
     },
@@ -13218,7 +13218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20757"
+          "Value": "21269"
         },
         {
           "Name": "Content-Type",
@@ -13226,11 +13226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8=\""
+          "Value": "\"u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:57 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13240,18 +13240,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8="
+          "Value": "sha256-u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs="
         }
       ]
     },
     {
       "Route": "_framework/FrontEnd.wasm",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-rolwamfig9.gz",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-vzrw0bhwvx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000110132159"
+          "Quality": "0.000107584723"
         }
       ],
       "ResponseHeaders": [
@@ -13261,15 +13261,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9079"
+          "Value": "9294"
         },
         {
           "Name": "ETag",
-          "Value": "\"0bSCU7FZ8s9C++T6IKvZ3//ie6/KbAakbC6e3J3RxuU=\""
+          "Value": "\"AhRJHE1mOn9ePTPIqSwrl7SXOlEwC4fNrWB5XYHDoGU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13289,19 +13289,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8=\""
+          "Value": "W/\"u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yweYv47TIhwZP4myVvT0xWgd2rTodup2Vbdgp4sjxY8="
+          "Value": "sha256-u3E3f9x2qewM98pl+n3Fw0HttoJFzDne0v7svYRoaXs="
         }
       ]
     },
     {
       "Route": "_framework/FrontEnd.wasm.gz",
-      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-rolwamfig9.gz",
+      "AssetFile": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\FrontEnd\\obj\\Debug\\net9.0\\compressed\\66tasnwnlq-vzrw0bhwvx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13310,7 +13310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9079"
+          "Value": "9294"
         },
         {
           "Name": "Content-Type",
@@ -13318,11 +13318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0bSCU7FZ8s9C++T6IKvZ3//ie6/KbAakbC6e3J3RxuU=\""
+          "Value": "\"AhRJHE1mOn9ePTPIqSwrl7SXOlEwC4fNrWB5XYHDoGU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 17:04:58 GMT"
+          "Value": "Wed, 26 Feb 2025 17:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13340,7 +13340,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0bSCU7FZ8s9C++T6IKvZ3//ie6/KbAakbC6e3J3RxuU="
+          "Value": "sha256-AhRJHE1mOn9ePTPIqSwrl7SXOlEwC4fNrWB5XYHDoGU="
         }
       ]
     },

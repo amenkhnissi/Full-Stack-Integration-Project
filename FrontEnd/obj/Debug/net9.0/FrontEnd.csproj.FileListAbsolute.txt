@@ -2159,10 +2159,10 @@ C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.
 C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\refint\FrontEnd.dll
 C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\FrontEnd.pdb
 C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\ref\FrontEnd.dll
-C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\bin\Debug\net9.0\wwwroot\_framework\FrontEnd.2hcef23mul.pdb
-C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\bin\Debug\net9.0\wwwroot\_framework\FrontEnd.rolwamfig9.wasm
-C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\bin\Debug\net9.0\wwwroot\_framework\FrontEnd.rolwamfig9.wasm.gz
-C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\bin\Debug\net9.0\wwwroot\_framework\FrontEnd.2hcef23mul.pdb.gz
-C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\compressed\66tasnwnlq-rolwamfig9.gz
-C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\compressed\jgqptv09ng-2hcef23mul.gz
-C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\compressed\da4165w0gq-0wzefjylrw.gz
+C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\bin\Debug\net9.0\wwwroot\_framework\FrontEnd.q6fb8j14v8.pdb
+C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\bin\Debug\net9.0\wwwroot\_framework\FrontEnd.vzrw0bhwvx.wasm
+C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\bin\Debug\net9.0\wwwroot\_framework\FrontEnd.vzrw0bhwvx.wasm.gz
+C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\bin\Debug\net9.0\wwwroot\_framework\FrontEnd.q6fb8j14v8.pdb.gz
+C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\compressed\66tasnwnlq-vzrw0bhwvx.gz
+C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\compressed\jgqptv09ng-q6fb8j14v8.gz
+C:\Users\HP\source\repos\Full-Stack-Integration-Project\FrontEnd\obj\Debug\net9.0\compressed\da4165w0gq-lpt2wg8nmu.gz
