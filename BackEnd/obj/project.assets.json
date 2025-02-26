@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\BackEnd\\BackEnd\\BackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\BackEnd\\BackEnd.csproj",
       "projectName": "BackEnd",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\BackEnd\\BackEnd\\BackEnd.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\BackEnd\\BackEnd.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\BackEnd\\BackEnd\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\Full-Stack-Integration-Project\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
