@@ -29,7 +29,7 @@
     protected override async Task OnInitializedAsync()
     {
         // Replace this URL with the actual API endpoint
-        var url = "http://localhost:5155/api/products";
+        var url = "http://localhost:5155/api/productlist";
         try
         {
             products = await Http.GetFromJsonAsync<Product[]>(url);
